@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 114.1 115" style="enable-background:new 0 0 114.1 115;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_00000083076098880602290630000016615483718985565833_);}
+	.st2{fill:url(#SVGID_00000101062728699545170100000016051782082875374767_);}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="88.0181" y1="-1495.0021" x2="29.1625" y2="-1553.2759" gradientTransform="matrix(1 0 0 -1 0 -1467.2157)">
+	<stop  offset="0" style="stop-color:#4D29B4"/>
+	<stop  offset="1" style="stop-color:#836FFF"/>
+</linearGradient>
+<path class="st0" d="M87,74c0.9,0,1.4,1.1,0.7,1.8L65.1,98.3c-0.7,0.7-1.8,0.2-1.8-0.7V75c0-0.6,0.5-1,1-1H87z M17.3,52.7
+	c-0.9,0-1.4-1.1-0.7-1.8l22.6-22.6c0.7-0.7,1.8-0.2,1.8,0.7v22.7c0,0.6-0.5,1-1,1L17.3,52.7L17.3,52.7z"/>
+<linearGradient id="SVGID_00000155130009553752534180000018240909454189319609_" gradientUnits="userSpaceOnUse" x1="63.0648" y1="-1518.2723" x2="103.7763" y2="-1478.2825" gradientTransform="matrix(1 0 0 -1 0 -1467.2157)">
+	<stop  offset="0" style="stop-color:#70FFE5"/>
+	<stop  offset="1" style="stop-color:#6295E1"/>
+</linearGradient>
+<path style="fill:url(#SVGID_00000155130009553752534180000018240909454189319609_);" d="M66.5,49h30.2c0.6,0,1-0.5,1-1V17.7
+	c0-0.6-0.5-1-1-1H66.5c-0.6,0-1,0.5-1,1V48C65.5,48.5,65.9,49,66.5,49z"/>
+<linearGradient id="SVGID_00000061471978764370884360000002717672855128970938_" gradientUnits="userSpaceOnUse" x1="82.934" y1="-1500.0105" x2="44.6237" y2="-1536.3866" gradientTransform="matrix(1 0 0 -1 0 -1467.2157)">
+	<stop  offset="7.475110e-03" style="stop-color:#654FEC"/>
+	<stop  offset="1" style="stop-color:#71B2FF"/>
+</linearGradient>
+<path style="fill:url(#SVGID_00000061471978764370884360000002717672855128970938_);" d="M88.9,68.8H47.2c-0.6,0-1-0.5-1-1V26.1
+	c0-0.6,0.5-1,1-1h12c0.6,0,1,0.5,1,1v27.1c0,0.6,0.5,1,1,1h27.6c0.6,0,1,0.5,1,1v12.5C89.8,68.3,89.5,68.8,88.9,68.8z"/>
+</svg>
